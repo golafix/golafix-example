@@ -1,0 +1,11 @@
+version: "1"
+
+template:
+
+
+routes:
+  "":
+    target: "www/tpl.overview.html"
+
+  "E404":
+    target: "www/E404.html"
